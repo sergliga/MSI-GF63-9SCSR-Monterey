@@ -1,5 +1,5 @@
-# MSI-GF63-9SCSR-BigSur-
-MSI GF63 9SCSR OpenCore 0.7.3 BigSur 11.6 
+# MSI-GF63-9SCSR Monterey 12.0 Beta
+MSI GF63 9SCSR OpenCore 0.7.4 Monterey 12.0 Beta
 
 Guided by: https://dortania.github.io/OpenCore-Install-Guide/
 
@@ -21,7 +21,6 @@ Insert your own Platforminfo in config.plist
 
 ## Works
 - Intel UHD 630 Graphics Acceleration
-- HDMI Video/Audio Out
 - Facetime + iMessage
 - Sleep/Wake
 - Realtek alc233 Audio
@@ -36,8 +35,8 @@ Insert your own Platforminfo in config.plist
 - Handoff
 
 ## Dont Work
-- AppleALC not working from Windows reboot
 - AirDrop
+- HDMI
 
 ## Disabled
 - GTX1650ti dGPU
