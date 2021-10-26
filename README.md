@@ -1,5 +1,5 @@
-# MSI GF63 9SCSR Monterey 12.0 Beta
-MSI GF63 9SCSR OpenCore 0.7.4 Monterey 12.0 Beta
+# MSI GF63 9SCSR Monterey 12.0.1
+MSI GF63 9SCSR OpenCore 0.7.4 Monterey 12.0.1
 
 Guided by: https://dortania.github.io/OpenCore-Install-Guide/
 
