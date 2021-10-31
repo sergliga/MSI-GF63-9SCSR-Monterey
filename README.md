@@ -16,7 +16,7 @@ Insert your own Platforminfo in config.plist
 | Integrated Graphics | Intel UHD Graphics 630                     |
 | Monitor             | IPS FHD 1920x1080 (15.6 inch) |
 | Sound Card          | Realtek Audio ALC233         |
-| Wireless Card       | Intel Wireless 9560                   |
+| Wireless Card       | Intel Wireless 9560  swapped to BCM94360NG                  |
 | USB                 | 1x USB type C port and 3x USB 3.2 gen 1 ports  |
 
 ## Works
@@ -33,10 +33,8 @@ Insert your own Platforminfo in config.plist
 - Bluetooth Headset Mic
 - Wifi
 - Handoff
-
-## Dont Work
 - AirDrop
-- HDMI
+- HDMI video / audio
 
 ## Disabled
 - GTX1650ti dGPU
