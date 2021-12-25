@@ -19,6 +19,14 @@ Insert your own Platforminfo in config.plist
 | Wireless Card       | Intel Wireless 9560  swapped to BCM94360NG                  |
 | USB                 | 1x USB type C port and 3x USB 3.2 gen 1 ports  |
 
+## Change BIOS settings
+
+1. Show hidden settings with: CTRL Right + SHIFT Right + ALT Left + F2
+2. Turn off Secure Boot [Security]
+3. Turn off CFG Lock [Advanced -> Power & Performance -> CPU -> CPU Lock Configuration]
+4. Disable Fast Boot [Boot]
+5. Select UEFI mode without CSM [Boot]
+
 ## Works
 - Intel UHD 630 Graphics Acceleration
 - Facetime + iMessage
